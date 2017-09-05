@@ -2,13 +2,32 @@
 
 Github : https://github.com/Honest-Hong
 
-## 경력
+## 보유기술
 
-없음.
+- 언어
+	- Java
+	- C
+	- C++
+	- JavaScript
+	- Python
+	- C#
+	- Node.js
+- 소프트웨어
+	- Git
+	- MySQL
+	- MongoDB
+	- Android Studio
+	- Slack
 
 ## 활동
 
-없음.
+부스트캠프 2기 안드로이드 과정
+
+- 기간 : 2017-07-03 ~ 2017-08-28
+- 내용
+	- 학습 프로젝트 3주(안드로이드 기본)
+	- 실무 프로젝트 5주(회식이)
+	- 기술 세미나(Kotlin, Library, Firebase...)
 
 ## 수상
 

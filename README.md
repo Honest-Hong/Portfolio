@@ -39,7 +39,7 @@ Github : https://github.com/Honest-Hong
 
 ## 개인
 
-### 회식이
+### [회식이](docs/회식이.md)
 
 회식자리를 원하는 고객과 손님을 원하는 사장님의 매칭 앱
 
@@ -59,7 +59,7 @@ Github : https://github.com/Honest-Hong
 
 ## 팀 / 회사
 
-### 썰록
+### [썰록](docs/썰록.md)
 
 음성인식을 통하여 회의를 진행하고 인식 결과를 바탕으로 문서로 받아볼 수 있는 앱
 
@@ -71,7 +71,7 @@ Github : https://github.com/Honest-Hong
 
 ![썰록](images/썰록.png)
 
-### Play in Seoul - 피서
+### [Play in Seoul - 피서](docs/피서.md)
 
 서울에 있는 관광 명소들을 추천하고 기록으로 남길 수 있는 앱
 
@@ -82,7 +82,7 @@ Github : https://github.com/Honest-Hong
 
 ![피서](images/피서.png)
 
-### 저전력 스마트 도어락
+### [저전력 스마트 도어락](docs/도어락.md)
 
 블루투스를 활용한 스마트 도어락. 라즈베리파이와 블루투스로 연결되어있는 도어락을 스마트폰 앱으로 제어를 한다.
 
@@ -93,7 +93,7 @@ Github : https://github.com/Honest-Hong
 
 ![도어락](images/도어락.png)
 
-### 토익 한다면 한다
+### [토익 한다면 한다](docs/토한다.md)
 
 토익을 공부하기 위한 스케줄러 및 경쟁 커뮤니티
 

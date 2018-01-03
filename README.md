@@ -1,6 +1,6 @@
 # Portfolio
 
-Github : https://github.com/Honest-Hong
+Github : https://github.com/Mason-htj
 
 ## 보유기술
 
@@ -45,7 +45,7 @@ Github : https://github.com/Honest-Hong
 
 - 기간 : 2017-08-07 ~ 2017-08-28
 - 사용기술 : Android, Express, MongoDB, FCM, GoogleMaps
-- Github : [https://github.com/Honest-Hong/StaffDinner](https://github.com/Honest-Hong/StaffDinner)
+- Github : [https://github.com/Mason-htj/StaffDinner](https://github.com/Honest-Hong/StaffDinner)
 
 ![회식이](images/회식이.png)
 
@@ -67,7 +67,7 @@ Github : https://github.com/Honest-Hong
 - 기간 : 2016-09 ~ 2017-06
 - 역할 : Android 앱 개발
 - 사용기술 : Android, Express, MySQL, FCM, KoNLPy
-- Github : [https://github.com/Honest-Hong/Project-SNLU](https://github.com/Honest-Hong/Project-SNLU)
+- Github : [https://github.com/Mason-htj/Project-SNLU](https://github.com/Honest-Hong/Project-SNLU)
 
 ![썰록](images/썰록.png)
 
